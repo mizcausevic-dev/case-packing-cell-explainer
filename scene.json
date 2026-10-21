@@ -11,72 +11,72 @@
       "glyph": "packagebox",
       "label": "Grouped primary packs",
       "role": "path",
-      "x": 0.12,
-      "y": 0.32
+      "x": 0.14,
+      "y": 0.24
     },
     {
       "id": "n2",
       "glyph": "casebox",
       "label": "Open case",
       "role": "path",
-      "x": 0.31,
-      "y": 0.32
+      "x": 0.5,
+      "y": 0.24
     },
     {
       "id": "n3",
       "glyph": "carton",
       "label": "Load pattern",
       "role": "path",
-      "x": 0.5,
-      "y": 0.32
+      "x": 0.86,
+      "y": 0.24
     },
     {
       "id": "n4",
       "glyph": "duct",
       "label": "Products",
       "role": "path",
-      "x": 0.69,
-      "y": 0.32
+      "x": 0.14,
+      "y": 0.48
     },
     {
       "id": "n5",
       "glyph": "casebox",
       "label": "Case",
       "role": "path",
-      "x": 0.88,
-      "y": 0.32
+      "x": 0.5,
+      "y": 0.48
     },
     {
       "id": "n6",
       "glyph": "robot",
       "label": "Guarded automation",
       "role": "path",
-      "x": 0.2,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.48
     },
     {
       "id": "n7",
       "glyph": "casebox",
       "label": "Chosen case",
       "role": "path",
-      "x": 0.413,
-      "y": 0.68
+      "x": 0.14,
+      "y": 0.74
     },
     {
       "id": "n8",
       "glyph": "doc",
       "label": "Count",
       "role": "path",
-      "x": 0.627,
-      "y": 0.68
+      "x": 0.5,
+      "y": 0.74
     },
     {
       "id": "n9",
       "glyph": "plate",
       "label": "Discharge",
       "role": "structure",
-      "x": 0.84,
-      "y": 0.68
+      "x": 0.86,
+      "y": 0.74
     }
   ],
   "edges": [
