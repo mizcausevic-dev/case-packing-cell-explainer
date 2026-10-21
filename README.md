@@ -4,6 +4,8 @@
 
 Live plate: https://mizcausevic-dev.github.io/case-packing-cell-explainer/
 
+Repository: https://github.com/mizcausevic-dev/case-packing-cell-explainer
+
 ## What this is
 
 An interactive anatomy plate for Case-Packing Cell. Play, scrub, or jump the five stages. The same frame always draws the same picture.
